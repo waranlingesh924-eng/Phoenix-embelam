@@ -1,0 +1,2 @@
+a=print("Enter a number")
+print(a)
